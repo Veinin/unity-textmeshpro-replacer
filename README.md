@@ -6,6 +6,6 @@
 
 ![Menu](Documemtation~/TextMeshProReplacerMenu.png)
 
-2. Enjoy it.
+2. Select the font file and begin the replacement.
 
 ![Menu](Documemtation~/TextMeshProReplacerWindow.png)
